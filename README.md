@@ -80,7 +80,7 @@ matrix = [
 element = matrix[1][2]  # Output: 6
 ```
 - Fill in the required fields in the comment section.
-- Copy the above code in the file `lab3i.py`.
+- Copy the above code in the file `lab3f.py`.
 - Print the element `5` from this list. Specify the correct row and column.
 - Print the element `2` from this list.
 - Print the element `9` from this list.
@@ -92,6 +92,12 @@ element = matrix[1][2]  # Output: 6
   ```
 ## lab3g.py
 Write a program that reads values from standard input from user(using input function), stores the inputted values in a list, multiplies each element by 10, and prints the result in reverse order. 
+
+- Create an empty list
+- Create a while loop that ends when your list size reaches 6
+- Add numbers to your list using input
+- Multiply the numbers by 10
+- Print out the list in reverse order
 
 ## Lab 3 Sign-Off
 - Submit the screenshots of each individual script, the screenshot must show your scripts and command line interface and output.
