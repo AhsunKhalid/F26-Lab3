@@ -1,8 +1,8 @@
 # Add comments before you do anything else.
 
 #!/usr/bin/env python3
-# Author:
-# Date:
+# Author: AHSUN KHALID
+# Date: 30/09/2026
 # Purpose: 
 # Usage: ./lab3f.py
 
@@ -22,4 +22,3 @@ for i in matrix:
 
 for i in range(3):
     print(matrix[i])
-    
