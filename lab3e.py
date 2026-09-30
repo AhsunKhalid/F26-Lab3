@@ -8,3 +8,10 @@
 
 # Follow the specific instructions given in the README.md file
 
+students=['Ama', 'Elina', 'Maija', 'Daniel', 'Ibrahim']
+students.pop(1)
+students.insert(1,'Maggy')
+print(students)
+
+for i in students:
+    print (i)
