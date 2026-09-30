@@ -14,3 +14,4 @@ mylist.insert(0, 0)
 mylist.pop(2)
 print(mylist)
 print("The element 6 is present at index:", mylist.index(6))
+#test
