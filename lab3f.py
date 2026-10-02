@@ -12,13 +12,14 @@ matrix = [
 [1,2,3],
 [4,5,6],
 [7,8,9]
-
 ]
 
-elents5=matrix[1][1] #Output:6
-print("The elemtns at second row and second colum is ",matrix[1][1])
+elements5=matrix[1][1] #Output:6
+print("The element at second row and second coloum is ",elements5)
+elements2=matrix[0][1] #Output:6
+print("The element at first row and second coloum is ",elements2)
+elements9=matrix[2][2] #Output:6
+print("The element at third row and third coloum is ",elements9)
+
 for i in matrix:
     print (i)
-
-for i in range(3):
-    print(matrix[i])
